@@ -9,3 +9,7 @@
 .image-link {
 	background-image: url(https://twitter.com/learnenough);
 }
+
+blockquote {
+	width: 70%;
+}
