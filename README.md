@@ -14,5 +14,5 @@ with programmers and other users of Git.
 
 ```
 ### The website is hosted on github pagaes at 
-***  https://gtstride.github.io/sample_website/
 ```
+https://gtstride.github.io/sample_website/
